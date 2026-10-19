@@ -1,0 +1,26 @@
+
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Huy AV - Website cá nhân</title>
+<style>
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #101827;
+  color: white;
+  text-align: center;
+  padding: 70px 20px;
+}
+h1 { color: #65d6ff; }
+p { line-height: 1.8; }
+</style>
+</head>
+<body>
+<h1>Xin chào, mình là Huy!</h1>
+<p>Chào mừng bạn đến với website cá nhân của mình.</p>
+<p>Mình yêu thích công nghệ và khám phá những điều mới.</p>
+</body>
+</html>
